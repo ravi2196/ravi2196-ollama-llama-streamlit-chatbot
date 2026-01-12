@@ -27,11 +27,11 @@ This project demonstrates how to run a modern large language model locally with 
 
 ## 📂 Project Structure
 
-ollama-llama-streamlit-chatbot/
-├── app.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+ollama-llama-streamlit-chatbot/ <br>
+├── app.py<br>
+├── requirements.txt<br>
+├── README.md<br>
+└── .gitignore<br>
 
 
 ---
